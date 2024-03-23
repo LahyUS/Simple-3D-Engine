@@ -11,7 +11,7 @@
 
 ## Demo
 
-<iframe width="560" height="315" src="https://youtu.be/61MS4YGwYQk" frameborder="0" allowfullscreen></iframe>
+[![DEMO](https://img.youtube.com/vi/61MS4YGwYQk/0.jpg)](https://www.youtube.com/watch?v=61MS4YGwYQk)
 
 
 ## Installation
